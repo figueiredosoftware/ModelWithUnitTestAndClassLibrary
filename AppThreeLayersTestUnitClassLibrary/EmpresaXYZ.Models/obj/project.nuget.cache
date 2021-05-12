@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4MDI9TA/pX2zMO4vf02yaXVSzoO5c1Hutv4sFHCi526mJ9HJv+e6rRB+tn4nByZG9mJQ7vHh3Y1M3VqleDCPA==",
+  "success": true,
+  "projectFilePath": "C:\\Alessandro\\Projetos\\Projetos Versionados\\ModelWithUnitTestAndClassLibrary\\AppThreeLayersTestUnitClassLibrary\\EmpresaXYZ.Models\\EmpresaXYZ.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aless\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aless\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
